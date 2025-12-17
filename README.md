@@ -1,16 +1,76 @@
-## Hi there 👋
+# Santiago Barquero Torres
+### Full Stack Developer | Angular, Spring Boot, MySQL | Cloud & Scalable Web Applications
 
-<!--
-**Santy0608/Santy0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Professional Profile
+
+Full Stack Developer with proven experience designing and deploying scalable, secure, and cloud-ready applications.  
+Specialized in **Java, Spring Boot, and Angular**, with strong expertise in **JWT-based authentication, RBAC, and enterprise-grade architectures**.  
+
+- 🌍 **English Proficiency:** C1 Advanced (Professional bilingual fluency)  
+- 🎓 **Education:** B.S. in Systems Engineering (ongoing) + Technical Diploma in AI & Machine Learning (ongoing)  
+- ☁️ **Cloud & DevOps:** Skilled in AWS, Docker, GitHub Actions, Vercel, and Render  
+- 🔑 Recognized for **analytical problem-solving, adaptability, and delivering measurable business impact**
+
+---
+
+## 💼 Featured Professional Experience
+
+### **Freelance Full Stack Developer** | 2025
+
+#### 🛠️ Enterprise Inventory & Management System (Elektra Automotriz)
+- **Developed** a RESTful API with Spring Boot & MySQL, enabling efficient inventory and supplier management.  
+- **Secured** endpoints with Spring Security & JWT, implementing role-based access control.  
+- **Built** Angular modules for sales tracking and automated PDF invoice generation.  
+- **Impact:** Reduced manual workload and improved operational efficiency by 40%.
+
+#### 🏨 **Hospitality Platform (Hotel Sunrise Corcovado)**
+- **Developed** the complete front-end using **Angular**, applying modular architecture for maintainability and performance.  
+- **Designed** a fully responsive interface, optimizing UX across desktop and mobile devices.  
+- **Implemented** multilingual support (i18n), enabling seamless language switching for international users.  
+- **Managed** version control with Git/GitHub and ensured high availability through deployments on **Vercel** and **Render**.  
+- **Impact:** Delivered a scalable, user-friendly platform that enhanced accessibility and global reach.
+
+---
+
+## 📦 Key Projects
+
+### 🔄 Real-Time Communication Hub
+- **Implemented** WebSocket-based messaging with Spring Boot & STOMP for instant delivery.  
+- **Optimized** unstructured data handling with MongoDB.  
+- **Enabled** real-time state management in Angular using RxJS.  
+
+### 🛒 Scalable E-commerce Ecosystem
+- **Designed** modular architecture separating admin dashboard and client storefront.  
+- **Ensured** relational integrity with Spring Data JPA and MySQL.  
+- **Delivered** a production-ready platform with authentication, role management, and payment integration.
+
+
+---
+
+## 🛠️ Technical Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot, Spring Security (JWT), REST APIs |
+| **Frontend** | Angular, TypeScript, RxJS, Angular Material |
+| **Databases** | MySQL, PostgreSQL, SQL Server, MongoDB |
+| **Cloud & DevOps** | AWS (EC2, S3), Docker, GitHub Actions, Vercel, Render |
+
+## 📫 Connect with me
+
+<p align="left">
+<a href="mailto:barquerotorress@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/santiago-barquero-t-5687a4235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+*"Dedicated to building secure, scalable, and innovative software solutions that drive business success."*
