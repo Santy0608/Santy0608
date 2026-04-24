@@ -26,7 +26,7 @@ Specialized in **Java, Spring Boot, Angular and React**, with strong expertise i
  
 ## 💼 Featured Professional Experience
  
-### **Freelance Full Stack Developer** | 2025
+### **Freelance Full Stack Developer** | 2026
  
 #### 🏗️ Enterprise Inventory & Management System (Elektra Automotriz)
 - **Developed** a RESTful API with Spring Boot & MySQL, enabling efficient inventory and supplier management.
