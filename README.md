@@ -33,11 +33,6 @@ Specialized in **Java, Spring Boot, Angular and React**, with strong expertise i
 - **Secured** endpoints with Spring Security & JWT, implementing role-based access control.
 - **Built** Angular modules for sales tracking and automated PDF invoice generation.
 - **Impact:** Reduced manual workload and improved operational efficiency by 40%.
-#### 🛒 E-commerce Platform | Automotive Parts
-- **Built** a specialized e-commerce platform for automotive parts sales with full product catalog, cart, and checkout flow.
-- **Developed** the backend with Spring Boot and **PostgreSQL**, managing persistence with Spring Data JPA.
-- **Implemented** frontend with **React and Next.js**, optimizing for SEO and server-side rendering (SSR).
-- **Integrated** Stripe for secure payment processing and deployed on **Vercel** and **Render**.
 #### 🏨 Hospitality Platform (Hotel Sunrise Corcovado)
 - **Developed** the complete front-end using **Angular**, applying modular architecture for maintainability and performance.
 - **Designed** a fully responsive interface, optimizing UX across desktop and mobile devices.
