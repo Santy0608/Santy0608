@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
@@ -66,8 +65,7 @@ Specialized in **Java, Spring Boot, Angular and React**, with strong expertise i
 | Category | Technologies |
 | :--- | :--- |
 | **Backend** | Java, Spring Boot, Spring Security (JWT), Spring Data JPA, REST APIs |
-| **Frontend** | Angular, React, Next.js, TypeScript, RxJS |
-| **Mobile** | React Native |
+| **Frontend** | Angular, Next.js, TypeScript, RxJS |
 | **Databases** | Oracle SQL, MySQL, PostgreSQL, SQL Server, MongoDB |
 | **Cloud & DevOps** | AWS (EC2, S3), Docker, Vercel, Render, Git/GitHub |
 | **Other** | iTextPDF, Chart.js, WebSocket, i18n, Stripe |
