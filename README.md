@@ -55,9 +55,6 @@ Specialized in **Java, Spring Boot, Angular and React**, with strong expertise i
 - **Designed** modular architecture separating admin dashboard and client storefront.
 - **Ensured** relational integrity with Spring Data JPA and MySQL.
 - **Delivered** a production-ready platform with authentication, role management, and Stripe payment integration.
-### 📱 Nidex — Mobile Application (Team Project)
-- **Developed** a mobile app for poultry farm management covering inventory, production tracking, and reporting.
-- **Built** with **React Native** for cross-platform support and **SQLite** for local data persistence.
 ---
  
 ## 🛠️ Technical Toolkit
