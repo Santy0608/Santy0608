@@ -43,7 +43,7 @@ Specialized in **Java, Spring Boot, Angular and React**, with strong expertise i
  
 ### 🏦 Enterprise Management System — ASEFIDE (Asociación Solidarista) ⭐
 - **Designed** a full enterprise system with 8 modules: Users, Activities, Benefits, Services, Loans, Savings Accounts, and Transactions.
-- **Built** 27 fully functional CRUDs using **Oracle stored procedures, functions, views, materialized views, triggers, sequences, and jobs** with extreme normalization (3NF+).
+- **Built** 27 fully functional CRUDs using **Oracle stored procedures, functions, views, materialized views, triggers, sequences, and jobs** following 3NF normalization principles
 - **Implemented** role-based access control with **Spring Security & JWT** for ADMIN and ASSOCIATE roles.
 - **Integrated** an AI-powered chatbot (FIDE) with **prompt engineering** and caching strategy, scoped to the ASEFIDE domain and adapted per user role.
 - **Developed** an analytical dashboard with **Chart.js** fed by Oracle materialized views, and dynamic PDF report generation with **iTextPDF**.
