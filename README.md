@@ -1,5 +1,5 @@
 # Santiago Barquero Torres
-### Full Stack Developer | Angular · Spring Boot · Oracle · React | Enterprise Systems & AI Integration
+### Full Stack Developer | Angular · Spring Boot · Oracle · Next.js | Enterprise Systems & AI Integration
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -31,7 +31,7 @@ Specialized in **Java, Spring Boot, Angular and React**, with strong expertise i
 - **Developed** a RESTful API with Spring Boot & MySQL, enabling efficient inventory and supplier management.
 - **Secured** endpoints with Spring Security & JWT, implementing role-based access control.
 - **Built** Angular modules for sales tracking and automated PDF invoice generation.
-- **Impact:** Reduced manual workload and improved operational efficiency by 40%.
+- **Impact:** Reduced manual administrative processes and improved operational workflow.
 #### 🏨 Hospitality Platform (Hotel Sunrise Corcovado)
 - **Developed** the complete front-end using **Angular**, applying modular architecture for maintainability and performance.
 - **Designed** a fully responsive interface, optimizing UX across desktop and mobile devices.
