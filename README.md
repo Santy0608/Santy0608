@@ -8,9 +8,8 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 ---
@@ -18,13 +17,13 @@
 ## 👨‍💻 About Me
 
 Full Stack Developer with **production experience** building enterprise systems actively used by real businesses.
-Specialized in **Java · Spring Boot** backend development with hands-on **AI integration** — including LLM-based semantic search, RAG pipelines, and Vector Search deployed in real projects.
+Focused on **Java · Spring Boot** backend development with hands-on **AI integration** — including LLM-based semantic search, prompt engineering, and token caching deployed in production.
 
 - 🌍 **English:** C1 Advanced — Professional bilingual fluency
 - 🎓 **Education:** B.S. Systems Engineering · Universidad Fidélitas (6/8 terms) + Technical Diploma in AI & ML · Universidad Cenfotec (in progress)
-- 🤖 **AI:** LLM integration, RAG, prompt engineering, MongoDB Atlas Vector Search, Spring AI, token caching
-- 🗄️ **Databases:** Advanced Oracle (stored procedures, triggers, materialized views, cursors, jobs) · MySQL · MongoDB Atlas
-- ☁️ **DevOps:** Docker · Digital Ocean · AWS · Vercel · Git/GitHub
+- 🤖 **AI:** LLM integration, prompt engineering, LLM-based entity extraction, token caching, semantic search
+- 🗄️ **Databases:** Advanced Oracle (stored procedures, triggers, materialized views, cursors, jobs) · MySQL · SQL Server
+- ☁️ **DevOps:** Docker · Digital Ocean · Vercel · Git/GitHub
 - 🧪 **Testing:** JUnit · Mockito
 
 ---
@@ -36,9 +35,9 @@ Specialized in **Java · Spring Boot** backend development with hands-on **AI in
 
 Full ERP system for a Costa Rican auto parts retailer, managing **500+ SKUs** across **3 active staff members** — replacing 100% of manual spreadsheet-based tracking.
 
-**8 modules:** Sales management · Electronic invoicing (Ministerio de Hacienda CR) · PDF quotations · Inventory entries & returns · Accounts receivable & payable · Analytics dashboard
+**8 modules:** Sales management · Automated PDF invoice generation · PDF quotations · Inventory entries & returns · Accounts receivable & payable · Analytics dashboard
 
-**E-commerce:** Next.js storefront connected to the same Spring Boot backend, featuring **AI-powered semantic search** using LLM-based entity extraction, prompt engineering, and dynamic relational queries. API key protected server-side. WhatsApp-based cart checkout with vehicle and parts detail.
+**E-commerce:** Next.js storefront connected to the same Spring Boot backend, featuring **AI-powered semantic search** using LLM-based entity extraction, prompt engineering, and dynamic relational queries with token caching for cost control. API key protected server-side. WhatsApp-based cart checkout with vehicle and parts detail.
 
 **Stack:** Java · Spring Boot · Spring Security JWT · MySQL · Next.js · Docker · Digital Ocean · Vercel · Cloudinary · iTextPDF · JUnit · Mockito
 
@@ -73,35 +72,17 @@ Complete enterprise system for a solidarity association with **200+ active membe
 
 ---
 
-### 🧠 Student Mental Health System *(In Development)*
-> Academic project · Universidad Fidélitas · NoSQL Databases Course
-
-Wellness platform for students with a full **RAG pipeline** using Spring AI and MongoDB Atlas Vector Search.
-
-- Daily mood self-assessment with gamification (points and streaks)
-- **AI recommendation engine:** RAG · Spring AI · MongoDB Atlas Vector Search · token caching — recommends therapeutic resources based on assessment results
-- Progress dashboard with Chart.js and personal journal
-- Admin dashboard with trend analysis and Excel/CSV export
-- Spring Security JWT with STUDENT/ADMIN roles
-
-**Stack:** Java · Spring Boot · React · MongoDB · MongoDB Atlas Vector Search · Spring AI
-
-> 🚧 In active development — repository coming soon
-
----
-
 ## 🛠️ Technical Toolkit
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | Java, Spring Boot, Spring Security (JWT), Spring Data JPA, Spring Web, Spring AI, RESTful APIs |
-| **Frontend** | Angular, Next.js, React, Chart.js, HTML, CSS |
+| **Backend** | Java, Spring Boot, Spring Security (JWT), Spring Data JPA, Spring Web, RESTful APIs |
+| **Frontend** | Angular, Next.js, Chart.js, HTML, CSS |
 | **Relational Databases** | MySQL, Oracle (stored procedures, triggers, jobs, materialized views, cursors, sequences, partitions, indexes), SQL Server |
-| **NoSQL Databases** | MongoDB, MongoDB Atlas, Atlas Vector Search |
-| **AI** | RAG, Prompt Engineering, Spring AI, Vector Search, LLM API integration, token caching |
-| **DevOps** | Docker, AWS, Digital Ocean, Vercel, Git, GitHub |
+| **AI** | Prompt Engineering, LLM-based entity extraction, AI API integration, token caching, semantic search |
+| **DevOps** | Docker, Digital Ocean, Vercel, Git, GitHub |
 | **Testing** | JUnit, Mockito |
-| **Other** | iTextPDF, Cloudinary, WebSocket, i18n, Electronic Invoicing (Hacienda CR) |
+| **Other** | iTextPDF, Cloudinary, i18n, Automated PDF invoice generation |
 
 ---
 
