@@ -1,5 +1,6 @@
 # Santiago Barquero Torres
-### Full Stack Developer | Angular · Spring Boot · Oracle · Next.js | Enterprise Systems & AI Integration
+### Full Stack Developer | Java · Spring Boot · AI Integration · Oracle · Next.js
+
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -7,73 +8,107 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
+
 ---
- 
-## 🚀 Professional Profile
- 
-Full Stack Developer with proven experience designing and deploying scalable, secure, and cloud-ready applications.  
-Specialized in **Java, Spring Boot, Angular and React**, with strong expertise in **JWT-based authentication, RBAC, enterprise-grade architectures, and AI integration**.
- 
-- 🌍 **English Proficiency:** C1 Advanced (Professional bilingual fluency)
-- 🎓 **Education:** B.S. in Systems Engineering (ongoing) + Technical Diploma in AI & Machine Learning (ongoing)
-- ☁️ **Cloud & DevOps:** Skilled in AWS, Docker, Vercel, and Render
-- 🤖 **AI Integration:** Experience building role-aware AI chatbots with prompt engineering and caching strategies
-- 🔑 Recognized for **analytical problem-solving, adaptability, and delivering measurable business impact**
+
+## 👨‍💻 About Me
+
+Full Stack Developer with **production experience** building enterprise systems actively used by real businesses.
+Specialized in **Java · Spring Boot** backend development with hands-on **AI integration** — including LLM-based semantic search, RAG pipelines, and Vector Search deployed in real projects.
+
+- 🌍 **English:** C1 Advanced — Professional bilingual fluency
+- 🎓 **Education:** B.S. Systems Engineering · Universidad Fidélitas (6/8 terms) + Technical Diploma in AI & ML · Universidad Cenfotec (in progress)
+- 🤖 **AI:** LLM integration, RAG, prompt engineering, MongoDB Atlas Vector Search, Spring AI, token caching
+- 🗄️ **Databases:** Advanced Oracle (stored procedures, triggers, materialized views, cursors, jobs) · MySQL · MongoDB Atlas
+- ☁️ **DevOps:** Docker · Digital Ocean · AWS · Vercel · Git/GitHub
+- 🧪 **Testing:** JUnit · Mockito
+
 ---
- 
-## 💼 Featured Professional Experience
- 
-### **Freelance Full Stack Developer** | 2026
- 
-#### 🏗️ Enterprise Inventory & Management System (Elektra Automotriz)
-- **Developed** a RESTful API with Spring Boot & MySQL, enabling efficient inventory and supplier management.
-- **Secured** endpoints with Spring Security & JWT, implementing role-based access control.
-- **Built** Angular modules for sales tracking and automated PDF invoice generation.
-- **Impact:** Reduced manual administrative processes and improved operational workflow.
-#### 🏨 Hospitality Platform (Hotel Sunrise Corcovado)
-- **Developed** the complete front-end using **Angular**, applying modular architecture for maintainability and performance.
-- **Designed** a fully responsive interface, optimizing UX across desktop and mobile devices.
-- **Implemented** multilingual support (i18n), enabling seamless language switching for international users.
-- **Impact:** Delivered a scalable, user-friendly platform that enhanced accessibility and global reach.
+
+## 💼 Production Experience
+
+### 🔧 ERP + E-commerce Platform — Elektra Automotriz
+> **Live in production · Used daily by the business**
+
+Full ERP system for a Costa Rican auto parts retailer, managing **500+ SKUs** across **3 active staff members** — replacing 100% of manual spreadsheet-based tracking.
+
+**8 modules:** Sales management · Electronic invoicing (Ministerio de Hacienda CR) · PDF quotations · Inventory entries & returns · Accounts receivable & payable · Analytics dashboard
+
+**E-commerce:** Next.js storefront connected to the same Spring Boot backend, featuring **AI-powered semantic search** using LLM-based entity extraction, prompt engineering, and dynamic relational queries. API key protected server-side. WhatsApp-based cart checkout with vehicle and parts detail.
+
+**Stack:** Java · Spring Boot · Spring Security JWT · MySQL · Next.js · Docker · Digital Ocean · Vercel · Cloudinary · iTextPDF · JUnit · Mockito
+
+> 🔒 Private repository — [screenshots and demo available here](#) *(link al repo intermedio)*
+
 ---
- 
-## 📦 Key Projects
- 
-### 🏦 Enterprise Management System — ASEFIDE (Asociación Solidarista) ⭐
-- **Designed** a full enterprise system with 8 modules: Users, Activities, Benefits, Services, Loans, Savings Accounts, and Transactions.
-- **Built** 27 fully functional CRUDs using **Oracle stored procedures, functions, views, materialized views, triggers, sequences, and jobs** following 3NF normalization principles
-- **Implemented** role-based access control with **Spring Security & JWT** for ADMIN and ASSOCIATE roles.
-- **Integrated** an AI-powered chatbot (FIDE) with **prompt engineering** and caching strategy, scoped to the ASEFIDE domain and adapted per user role.
-- **Developed** an analytical dashboard with **Chart.js** fed by Oracle materialized views, and dynamic PDF report generation with **iTextPDF**.
-### 🔄 Real-Time Communication Hub
-- **Implemented** WebSocket-based messaging with Spring Boot & STOMP for instant delivery.
-- **Optimized** unstructured data handling with MongoDB.
-- **Enabled** real-time state management in Angular using RxJS.
-### 🛒 Scalable E-commerce Ecosystem
-- **Designed** modular architecture separating admin dashboard and client storefront.
-- **Ensured** relational integrity with Spring Data JPA and MySQL.
-- **Delivered** a production-ready platform with authentication, role management, and Stripe payment integration.
+
+### 🌿 Informational Website — Hotel Sunrise Corcovado
+Angular frontend with responsive design, multilingual support (i18n), deployed on Vercel.
+
+> 🔒 Private repository
+
 ---
- 
+
+## 📦 Projects
+
+### 🏦 Enterprise Management System — ASEFIDE
+> Academic project · Universidad Fidélitas · Database Languages Course
+
+Complete enterprise system for a solidarity association with **200+ active members**.
+
+- **Oracle database** with 3NF normalization: stored procedures, triggers, scheduled jobs, materialized views, sequences, cursors, and indexes
+- **8 modules:** Loans · Savings Accounts · Transactions · Reports · Users · Activities · Benefits · Services — all consumed from Spring Boot via stored procedures
+- **AI chatbot** with role-based behavior (ADMIN/ASSOCIATE), prompt engineering, and caching strategy
+- **Analytics dashboard** with Chart.js fed by Oracle materialized views
+- **PDF report generation** with date range filtering using iTextPDF
+- Spring Security JWT with role-based endpoint protection
+
+**Stack:** Java · Spring Boot · Oracle · Spring Security JWT · Chart.js · iTextPDF
+
+> 🔒 Private repository — [screenshots and demo available here](#) *(link al repo intermedio)*
+
+---
+
+### 🧠 Student Mental Health System *(In Development)*
+> Academic project · Universidad Fidélitas · NoSQL Databases Course
+
+Wellness platform for students with a full **RAG pipeline** using Spring AI and MongoDB Atlas Vector Search.
+
+- Daily mood self-assessment with gamification (points and streaks)
+- **AI recommendation engine:** RAG · Spring AI · MongoDB Atlas Vector Search · token caching — recommends therapeutic resources based on assessment results
+- Progress dashboard with Chart.js and personal journal
+- Admin dashboard with trend analysis and Excel/CSV export
+- Spring Security JWT with STUDENT/ADMIN roles
+
+**Stack:** Java · Spring Boot · React · MongoDB · MongoDB Atlas Vector Search · Spring AI
+
+> 🚧 In active development — repository coming soon
+
+---
+
 ## 🛠️ Technical Toolkit
- 
+
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | Java, Spring Boot, Spring Security (JWT), Spring Data JPA, REST APIs |
-| **Frontend** | Angular, Next.js, TypeScript, RxJS |
-| **Databases** | Oracle SQL, MySQL, PostgreSQL, SQL Server, MongoDB |
-| **Cloud & DevOps** | AWS (EC2, S3), Docker, Vercel, Render, Git/GitHub |
-| **Other** | iTextPDF, Chart.js, WebSocket, i18n, Stripe |
- 
+| **Backend** | Java, Spring Boot, Spring Security (JWT), Spring Data JPA, Spring Web, Spring AI, RESTful APIs |
+| **Frontend** | Angular, Next.js, React, Chart.js, HTML, CSS |
+| **Relational Databases** | MySQL, Oracle (stored procedures, triggers, jobs, materialized views, cursors, sequences, partitions, indexes), SQL Server |
+| **NoSQL Databases** | MongoDB, MongoDB Atlas, Atlas Vector Search |
+| **AI** | RAG, Prompt Engineering, Spring AI, Vector Search, LLM API integration, token caching |
+| **DevOps** | Docker, AWS, Digital Ocean, Vercel, Git, GitHub |
+| **Testing** | JUnit, Mockito |
+| **Other** | iTextPDF, Cloudinary, WebSocket, i18n, Electronic Invoicing (Hacienda CR) |
+
 ---
- 
-## 📫 Connect with me
- 
+
+## 📫 Contact
+
 <p align="left">
-<a href="mailto:barquerotorress@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/santiago-barquero-t-5687a4235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Santy0608"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:barquerotorress@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/santiago-barquero-t-5687a4235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Santy0608"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-*"Dedicated to building secure, scalable, and innovative software solutions that drive business success."*
