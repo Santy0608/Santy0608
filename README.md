@@ -21,7 +21,7 @@ Focused on **Java · Spring Boot** backend development with hands-on **AI integr
 
 - 🌍 **English:** C1 Advanced — Professional bilingual fluency
 - 🎓 **Education:** B.S. Systems Engineering · Universidad Fidélitas (6/8 terms) + Technical Diploma in AI & ML · Universidad Cenfotec (in progress)
-- 🤖 **AI:** LLM integration, prompt engineering, LLM-based entity extraction, token caching, semantic search
+- 🤖 **AI:** LLM integration, prompt engineering, LLM-based entity extraction, token caching, natural language search
 - 🗄️ **Databases:** Advanced Oracle (stored procedures, triggers, materialized views, cursors, jobs) · MySQL · SQL Server
 - ☁️ **DevOps:** Docker · Digital Ocean · Vercel · Git/GitHub
 - 🧪 **Testing:** JUnit · Mockito
@@ -37,7 +37,7 @@ Full ERP system for a Costa Rican auto parts retailer, managing **500+ SKUs** ac
 
 **8 modules:** Sales management · Automated PDF invoice generation · PDF quotations · Inventory entries & returns · Accounts receivable & payable · Analytics dashboard
 
-**E-commerce:** Next.js storefront connected to the same Spring Boot backend, featuring **AI-powered semantic search** using LLM-based entity extraction, prompt engineering, and dynamic relational queries with token caching for cost control. API key protected server-side. WhatsApp-based cart checkout with vehicle and parts detail.
+**E-commerce:** Next.js storefront connected to the same Spring Boot backend, featuring **AI-powered natural language search** using LLM-based entity extraction, prompt engineering, and dynamic relational queries with token caching for cost control. API key protected server-side. WhatsApp-based cart checkout with vehicle and parts detail.
 
 **Stack:** Java · Spring Boot · Spring Security JWT · MySQL · Next.js · Docker · Digital Ocean · Vercel · Cloudinary · iTextPDF · JUnit · Mockito
 
@@ -79,7 +79,7 @@ Complete enterprise system for a solidarity association with **200+ active membe
 | **Backend** | Java, Spring Boot, Spring Security (JWT), Spring Data JPA, Spring Web, RESTful APIs |
 | **Frontend** | Angular, Next.js, Chart.js, HTML, CSS |
 | **Relational Databases** | MySQL, Oracle (stored procedures, triggers, jobs, materialized views, cursors, sequences, partitions, indexes), SQL Server |
-| **AI** | Prompt Engineering, LLM-based entity extraction, AI API integration, token caching, semantic search |
+| **AI** | Prompt Engineering, LLM-based entity extraction, AI API integration, token caching, natural language search |
 | **DevOps** | Docker, Digital Ocean, Vercel, Git, GitHub |
 | **Testing** | JUnit, Mockito |
 | **Other** | iTextPDF, Cloudinary, i18n, Automated PDF invoice generation |
