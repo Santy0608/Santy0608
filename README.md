@@ -68,7 +68,7 @@ Complete enterprise system for a solidarity association with **200+ active membe
 
 **Stack:** Java · Spring Boot · Oracle · Spring Security JWT · Chart.js · iTextPDF
 
-> 🔒 Private repository — [screenshots and demo available here](#) *(link al repo intermedio)*
+> https://github.com/Santy0608/ASEFIDE.git
 
 ---
 
