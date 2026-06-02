@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 Full Stack Developer with **production experience** building enterprise systems actively used by real businesses.
-Focused on **Java · Spring Boot** backend development with hands-on **AI integration** — including LLM-based semantic search, prompt engineering, and token caching deployed in production.
+Focused on **Java · Spring Boot** backend development with hands-on **AI integration** — including LLM-based natural language search, prompt engineering, and token caching deployed in production.
 
 - 🌍 **English:** C1 Advanced — Professional bilingual fluency
 - 🎓 **Education:** B.S. Systems Engineering · Universidad Fidélitas (6/8 terms) + Technical Diploma in AI & ML · Universidad Cenfotec (in progress)
