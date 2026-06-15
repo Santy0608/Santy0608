@@ -41,7 +41,7 @@ Full ERP system for a Costa Rican auto parts retailer, managing **500+ SKUs** ac
 
 **Stack:** Java · Spring Boot · Spring Security JWT · MySQL · Next.js · Docker · Digital Ocean · Vercel · Cloudinary · iTextPDF · JUnit · Mockito
 
-> 🔒 Private repository 
+> https://github.com/Santy0608/Elektra-Automotriz
 
 ---
 
