@@ -79,6 +79,7 @@ Complete enterprise system for a solidarity association with **200+ active membe
 | **Backend** | Java, Spring Boot, Spring Security (JWT), Spring Data JPA, Spring Web, RESTful APIs |
 | **Frontend** | Angular, Next.js, Chart.js, HTML, CSS |
 | **Relational Databases** | MySQL, Oracle (stored procedures, triggers, jobs, materialized views, cursors, sequences, partitions, indexes), SQL Server |
+| **NoSQL** | MongoDB |
 | **AI** | Prompt Engineering, LLM-based entity extraction, AI API integration, token caching, natural language search |
 | **DevOps** | Docker, Digital Ocean, Vercel, Git, GitHub |
 | **Testing** | JUnit, Mockito |
