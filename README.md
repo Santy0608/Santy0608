@@ -72,6 +72,22 @@ Complete enterprise system for a solidarity association with **200+ active membe
 
 ---
 
+### 🏥 Student Wellness Platform — Campus Care
+> Academic project · Universidad Fidélitas · NoSQL Databases Course
+
+Student wellness platform with gamification and AI-powered resource recommendations.
+
+- **MongoDB** with Spring Boot for NoSQL data management
+- Gamification system: points, streaks, and achievement unlocking
+- AI-powered resource recommendations based on student self-evaluations
+- RESTful API with Spring Boot and MongoDB
+
+**Stack:** Java · Spring Boot · MongoDB · Vanilla JavaScript
+
+> https://github.com/Santy0608/Campus-Care
+
+---
+
 ## 🛠️ Technical Toolkit
 
 | Category | Technologies |
