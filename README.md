@@ -24,7 +24,7 @@ Focused on **Java · Spring Boot** backend development with hands-on **AI integr
 - 🎓 **Education:** B.S. Systems Engineering · Universidad Fidélitas (6/8 terms) + Technical Diploma in AI & ML · Universidad Cenfotec (in progress)
 - 🤖 **AI:** LLM integration, prompt engineering, LLM-based entity extraction, token caching, natural language search
 - 🗄️ **Databases:** Advanced Oracle (stored procedures, triggers, materialized views, cursors, jobs) · MySQL · SQL Server
-- ☁️ **DevOps:** Docker · Digital Ocean · Vercel · Git/GitHub
+- ☁️ **DevOps:** Docker · AWS (EC2, RDS) · Vercel · Git/GitHub
 - 🧪 **Testing:** JUnit · Mockito
 
 ---
@@ -40,7 +40,7 @@ Full ERP system for a Costa Rican auto parts retailer, managing **500+ SKUs** ac
 
 **E-commerce:** Next.js storefront connected to the same Spring Boot backend, featuring **AI-powered natural language search** using LLM-based entity extraction, prompt engineering, and dynamic relational queries with token caching for cost control. API key protected server-side. WhatsApp-based cart checkout with vehicle and parts detail.
 
-**Stack:** Java · Spring Boot · Spring Security JWT · MySQL · Next.js · Docker · Digital Ocean · Vercel · Cloudinary · iTextPDF · JUnit · Mockito
+**Stack:** Java · Spring Boot · Spring Security JWT · MySQL · Next.js · Docker · AWS (EC2, RDS) · Vercel · Cloudinary · iTextPDF · JUnit · Mockito
 
 > https://github.com/Santy0608/Elektra-Automotriz
 
