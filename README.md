@@ -98,7 +98,7 @@ Student wellness platform with gamification and AI-powered resource recommendati
 | **Relational Databases** | MySQL, Oracle (stored procedures, triggers, jobs, materialized views, cursors, sequences, partitions, indexes), SQL Server |
 | **NoSQL** | MongoDB |
 | **AI** | Prompt Engineering, LLM-based entity extraction, AI API integration, token caching, natural language search |
-| **DevOps** | Docker, Digital Ocean, Vercel, Git, GitHub |
+| **DevOps** | Docker, AWS (EC2, RDS), Vercel, Git, GitHub |
 | **Testing** | JUnit, Mockito |
 | **Other** | iTextPDF, Cloudinary, i18n, Automated PDF invoice generation |
 
